@@ -5,7 +5,7 @@ Projects that I made throughout my learning journey.
 Created during courses and/or tutorials.
 
 ### JavaScript Algorithms and Data Structures Certification projects
-Scripts written to get this certification
+Scripts written to get this certification:
 
 - Palindrome Checker
 - Roman Numeral Converter
