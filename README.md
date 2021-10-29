@@ -7,7 +7,7 @@ Created during courses and/or tutorials.
 ### JavaScript Algorithms and Data Structures Certification projects
 Scripts written to get this certification:
 
-- Palíndrome Checker
+- Palindrome Checker
 - Roman Numeral Converter
 - Caesar Cipher
 - Telephone Number Validator
