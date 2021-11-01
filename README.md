@@ -2,7 +2,7 @@
 Projects that I made throughout my learning journey.
 
 ## freeCodeCamp projects
-Created during courses, tutorials and challenges.
+Created during courses, tutorials and exercises.
 
 ### JavaScript Algorithms and Data Structures Certification projects
 Scripts written to get this certification:
